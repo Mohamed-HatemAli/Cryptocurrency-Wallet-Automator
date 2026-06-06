@@ -1,0 +1,12 @@
+1: copper
+2: bachelor
+3: science
+4: gown
+5: solar
+6: word
+7: lobster
+8: festival
+9: other
+10: arch
+11: bomb
+12: inform

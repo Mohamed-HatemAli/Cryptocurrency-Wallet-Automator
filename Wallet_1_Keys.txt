@@ -1,0 +1,12 @@
+1: curve
+2: rebel
+3: hamster
+4: unit
+5: tackle
+6: leopard
+7: blossom
+8: link
+9: travel
+10: emotion
+11: major
+12: wasp

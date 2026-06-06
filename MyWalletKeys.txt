@@ -1,0 +1,12 @@
+1: hungry
+2: buzz
+3: humor
+4: reason
+5: festival
+6: digital
+7: couch
+8: shove
+9: rather
+10: swarm
+11: grant
+12: tent

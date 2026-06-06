@@ -1,0 +1,12 @@
+1: skill
+2: drift
+3: regular
+4: delay
+5: unfair
+6: high
+7: gesture
+8: goat
+9: toy
+10: frame
+11: grab
+12: ketchup
